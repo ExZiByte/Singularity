@@ -1,0 +1,9 @@
+{
+    "config.json": {
+        "parser": "json",
+        "find": {
+            "token": "Paste your Discord Bot Token Here",
+            "dbURI": "Paste your MongoDB Database URI Here"
+        }
+    }
+}
